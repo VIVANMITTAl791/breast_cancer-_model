@@ -48,4 +48,4 @@ Boom! 💥 Render will build your environment and give you a live URL. Your deep
 
 ## 🌐 Live Demo
 Check out the live, working version of this project hosted on Render:
-👉 **[Breast Cancer Detection System - Live App](https://breast-cancer-diagnose-system.onrender.com/)**
+👉 **[Breast Cancer Detection System - Live App](https://breast-cancer-model-n5on.onrender.com)**
