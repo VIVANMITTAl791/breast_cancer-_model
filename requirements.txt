@@ -1,5 +1,5 @@
 # requirements.txt
 joblib
 scikit-learn==1.6.1
-tensorflow
+tensorflow==2.11.0
 gradio
