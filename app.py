@@ -133,6 +133,7 @@ with gr.Blocks(theme=gr.themes.Soft(primary_hue="teal", neutral_hue="slate")) as
     ---
     ### 👨‍💻 About the Developer
     **Created by:** vivan mittal
+    """)
     # Wire up the logic mapped only to the 10 visible sliders
     input_components = [f1, f2, f3, f4, f5, f6, f7, f8, f9, f10]
     
